@@ -42,7 +42,7 @@ const patients = [
   { phone: '07986436095', name: 'watsoni', birthdate: '01/02/1990', age: 30, address: 'cherong', status: 'Married', complaints: 1 },
 ];
 
-function App() {
+function App(){
   return (
     <Box sx={{ display: 'flex' }}>
       <CssBaseline />
